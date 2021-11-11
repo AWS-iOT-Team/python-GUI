@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/Users/jwoh/WorkSpace/PyQt5forBeginner/02.02 PushButton">
+    <file>img/mic.png</file>
+  </qresource>
+</RCC>

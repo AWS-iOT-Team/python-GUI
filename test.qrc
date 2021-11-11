@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../Downloads/kev-costello-wdTLi-TUShs-unsplash.jpg</file>
+  </qresource>
+</RCC>
